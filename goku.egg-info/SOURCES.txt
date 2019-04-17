@@ -1,4 +1,5 @@
-goku
+README.md
+goku.py
 setup.py
 goku.egg-info/PKG-INFO
 goku.egg-info/SOURCES.txt
