@@ -1,0 +1,6 @@
+goku
+setup.py
+goku.egg-info/PKG-INFO
+goku.egg-info/SOURCES.txt
+goku.egg-info/dependency_links.txt
+goku.egg-info/top_level.txt
