@@ -1,4 +1,5 @@
 README.md
+__init__.py
 goku.py
 setup.py
 goku.egg-info/PKG-INFO

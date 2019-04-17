@@ -3,8 +3,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
      name='goku',
-     version='0.2',
-     scripts=['goku.py'] ,
+     version='0.2.1',
+     scripts=['goku.py','__init__.py'] ,
      author="Jatin Pandey",
      author_email="jatinpandeywork@gmail.com",
      description="A Super Sayaian  package KAAAA__MAEEE--HAA__MAEE_HAAAAAA",
